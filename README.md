@@ -1,4 +1,1 @@
-open-documents
-==============
-
-Documents and document templates for public use.
+The documents in this repository are licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US) unless otherwise specified. DECK Monitoring LLC hopes that others find it useful.
